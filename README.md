@@ -1,7 +1,7 @@
 # Login
 
-Login QR Membutuhkan {apiKey}
-Untuk mendapatkan apiKey nya
-Silahkan Chatt/pm via line
-id Line : afr1z4l
-Thank's to all mastah/
+Login QR Membutuhkan {apiKey}\n
+Untuk mendapatkan apiKey nya\n
+Silahkan Chatt/pm via line\n
+id Line : afr1z4l\n
+Thank's to all mastah/\n
